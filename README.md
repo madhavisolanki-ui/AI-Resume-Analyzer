@@ -85,6 +85,13 @@ streamlit run app.py
 
 ---
 
+### 📺 Project Demo
+Check out how the AI Resume Analyzer works:
+
+![App Screenshot](./screenshots/screenshot.png)
+
+---
+
 ## 📊 Sample Use Case
 
 This tool can be used by:
