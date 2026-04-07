@@ -86,9 +86,12 @@ streamlit run app.py
 ---
 
 ### 📺 Project Demo
-Check out how the AI Resume Analyzer works:
+🖥️ Application Preview
 
 ![App Screenshot](./screenshots/screenshot.png)
+
+🎥 Demo video
+[▶️ Watch Demo Video](https://www.loom.com/share/35cad5d1e75f4463adbaa02e508f9295)
 
 ---
 
