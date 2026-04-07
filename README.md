@@ -97,13 +97,13 @@ This tool can be used by:
 
 ## 💡 Future Enhancements
 
-* Integrate LLMs using prompt engineering for intelligent resume analysis
-* Improve scoring system with advanced evaluation metrics
-* Implement job description matching for better skill alignment
-* Apply advanced NLP techniques (NER, semantic analysis)
-* Add interactive chat-based AI feedback
-* Enhance UI with charts and visual insights
-* Deploy the application on cloud platforms
+* LLM-based analysis using prompt engineering
+* Resume scoring & job description matching
+* Chat-based AI feedback
+* UI improvements with visual insights
+* Cloud deployment and live project hosting
+* Skill Gap Analysis
+
 
 ---
 
