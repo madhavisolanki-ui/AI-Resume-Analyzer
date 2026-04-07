@@ -97,10 +97,13 @@ This tool can be used by:
 
 ## 💡 Future Enhancements
 
-* Integration with advanced NLP models (e.g., BERT-based analysis)
-* Job description matching system
-* Resume scoring system
-* Cloud deployment (AWS / GCP)
+* Integrate LLMs using prompt engineering for intelligent resume analysis
+* Improve scoring system with advanced evaluation metrics
+* Implement job description matching for better skill alignment
+* Apply advanced NLP techniques (NER, semantic analysis)
+* Add interactive chat-based AI feedback
+* Enhance UI with charts and visual insights
+* Deploy the application on cloud platforms
 
 ---
 
