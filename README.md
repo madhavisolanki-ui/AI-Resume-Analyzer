@@ -55,6 +55,7 @@ AI-Resume-Analyzer/
 │── README.md
 │── app.py
 │── requirements.txt
+
 ```
 
 ---
