@@ -48,11 +48,13 @@ Recruiters often spend limited time reviewing each resume, making it difficult f
 
 ```
 AI-Resume-Analyzer/
+│── .devcontainer/
+│── screenshots/
+│── .gitignore
+│── LICENSE
+│── README.md
 │── app.py
 │── requirements.txt
-│── README.md
-│── .gitignore
-│── screenshots/
 ```
 
 ---
