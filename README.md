@@ -110,10 +110,7 @@ This tool can be used by:
 ## 💡 Future Enhancements
 
 * LLM-based analysis using prompt engineering
-* Resume scoring & job description matching
-* Chat-based AI feedback
 * UI improvements with visual insights
-* Cloud deployment and live project hosting
 * Skill Gap Analysis
 
 
